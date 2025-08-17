@@ -9,15 +9,6 @@
 <h2 align="left">About me</h2>
 
 ###
-<div>
-
-<a href="https://beacons.al/rafaballerini
-
-< ing height="188en" src="https://github-readee-stats.vercel.app/api?username-refaballerini2&show_icons-trusthane-darinclude all_commits-true&count_private-true"/>
-
-<img height="180en" src="https://github-readme-stats.vercal.app/api/top-langs/?username-rafaballerini2&layout-compactålangs_court-16&theme-dracula">
-
-</div>
 
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C, Java, mysql<br>🎲 hobby games and studies</p>
 
