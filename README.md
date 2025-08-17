@@ -1,40 +1,46 @@
 <h1 align="left">Olá sou o João Vitor 🎮👋</h1>
 
-###
+ ### 🎓 Descrição
 
-<p align="left">My name is Joao vitor and I'm a student systems analysis and development, from Brazil - AM</p>
+Sou o João vitor temho 20 anos, atulamente sou estudante de análise e desenvolvimento de sistemas na instituição fametro, tenho certificado de desenvolvimento de aplicativos web, estou a procura de oportunidades de trabalho e estagios, me intereeso por back-end minhas linguagens de interrese e foco são java, python e c. sempre estou estudando e me atualizando na área de tecnologia constantemente, adoro criar e buscar soluções inovadoras.
 
-###
+### 👾 Linguagens e Tecnologias 
 
-<h2 align="left">About me</h2>
+   <img
+     align="left"
+     alt="C"
+     title="C"
+     width="30px"
+     style="padding-right: 20px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 
-###
+  <img
+    align="left"
+     alt="JAVA"
+     title="JAVA"
+     width="30px"
+     style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+       
+  <img 
+    align="left"
+     alt="PYTHON"
+     title="PYTHON"
+     width="30px"
+     style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+ 
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C, Java, mysql<br>🎲 hobby games and studies</p>
+    
+---
+### 📊 Estatísticas
 
-###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeniex&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeniex&theme=radical&layout=compact&custom_title=Linguagens&langs_count=3)
 
-<h2 align="left">I code with</h2>
 
-###
+## Contato
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+Para mais informações, você pode me encontrar em:
 
-###
+- [LinkedIn](https://www.linkedin.com/in/joao-vitor-pereira-b78a09371)
 
-<img src="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/joao-vitor-pereira-b78a09371" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
