@@ -35,7 +35,7 @@ Sou o João vitor tenho 20 anos, atualmente sou estudante de análise e desenvol
 ---
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeniex&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeniex&theme=radical&layout=compact&custom_title=Linguagens&langs_count=3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobeniex&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeniex&theme=radical&layout=compact&custom_title=Linguagens&langs_count=4)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kobeniex/kobeniex/output/github-contribution-grid-snake-dark.svg">
