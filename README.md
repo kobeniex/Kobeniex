@@ -2,7 +2,7 @@
 
  ### 🎓 Descrição
 
-Sou o João vitor tenho 20 anos, atualmente sou estudante de análise e desenvolvimento de sistemas na instituição fametro, tenho certificado de desenvolvimento de aplicativos web, estou a procura de oportunidades de trabalho e estagios, me interesso por back-end minhas linguagens de interrese e foco são java, python e c. sempre estou estudando e me atualizando na área de tecnologia constantemente, adoro criar e buscar soluções inovadoras.
+Sou o João vitor tenho 21 anos, atualmente sou estudante de análise e desenvolvimento de sistemas na instituição fametro, tenho certificado de desenvolvimento de aplicativos web, estou a procura de oportunidades de trabalho e estagios, me interesso por back-end, minhas linguagens de interrese e foco são java, python, c e javascript. sempre estou estudando e me atualizando na área de tecnologia constantemente, adoro criar e buscar soluções inovadoras.
 
 ### 👾 Linguagens e Tecnologias 
 
